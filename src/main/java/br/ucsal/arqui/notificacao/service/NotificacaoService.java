@@ -16,7 +16,6 @@ public class NotificacaoService {
     @Autowired
     private RestTemplate restTemplate;
 
-
     @Autowired
     private NotificacaoRepositorio notificacaoRepositorio;
 
